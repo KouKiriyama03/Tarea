@@ -1,0 +1,26 @@
+{
+  "name": "franklinvilleda",
+  "version": "1.0.0",
+  "description": "Tarea ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KouKiriyama03/Tarea.git"
+  },
+  "keywords": [
+    "tarea",
+    "node",
+    "express",
+    "handlebars"
+  ],
+  "author": "Franklin Villeda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KouKiriyama03/Tarea/issues"
+  },
+  "homepage": "https://github.com/KouKiriyama03/Tarea#readme"
+}
