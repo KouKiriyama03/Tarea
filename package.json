@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/KouKiriyama03/Tarea/issues"
   },
-  "homepage": "https://github.com/KouKiriyama03/Tarea#readme"
+  "homepage": "https://github.com/KouKiriyama03/Tarea#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
